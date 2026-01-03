@@ -1,5 +1,5 @@
 # Active Directory SOC Automation Project – Unauthorized Login Response
-
+![Alt text](https://github.com/kunal5620/Active-Directory-SOC-Automation/blob/main/Architecture/Active%20Directory%202.0.drawio.png)
 ## 📌 Project Overview
 This project demonstrates an **automated SOC incident response workflow** for handling **unauthorized or suspicious Active Directory logins**.
 
